@@ -201,10 +201,11 @@ Oilfield-Production-Data-Analysis/
 ├── screenshots/
 │   └── dashboard.png
 └── documentation/
-    └── Data_Quality_Issue_Log.xlsx
+    ├── Data_Quality_issue_Log.xlsx
+    └── Final_QA_Report.md
 ```
 
-The Data Quality Issue Log should be included if available. The project structure may be adjusted to reflect the final uploaded files.
+The project structure may be adjusted to reflect the final uploaded files.
 
 ## Project Status
 
